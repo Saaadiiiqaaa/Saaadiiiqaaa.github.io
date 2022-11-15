@@ -3,6 +3,10 @@ layout: post
 title: welcome to my blog
 published: true
 ---
+## explore my project 
+###
+
+created by me 
 
 this is my first blog created using jekyll 
 
