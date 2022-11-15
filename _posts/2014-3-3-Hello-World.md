@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: welcome to my blog
 published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+this is my first blog created using jekyll 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
