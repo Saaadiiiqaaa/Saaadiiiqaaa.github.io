@@ -5,8 +5,7 @@ published: true
 ---
 ## explore my project 
 ### created by me 
-my linked in url
-http://linkedin.com/in/mubarak-sadiqa-29341616a 
+[linked in](http://linkedin.com/in/mubarak-sadiqa-29341616a)
 
 ![github]({{site.baseurl}}/https://avatars.githubusercontent.com/u/87198213?v=4)
 
